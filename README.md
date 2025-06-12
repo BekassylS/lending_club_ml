@@ -12,7 +12,7 @@ This work was part of my final project in a data analysis course during my econo
 ## 📁 Project Files
 
 - `LC_project_final.ipynb`: Main Jupyter Notebook where all data preprocessing, modeling, and evaluation are performed.
-- `cleaned_lending_club_data.csv`: Cleaned version of the dataset used for modeling.
+- `cleaned_lending_club_data.csv.zip`: Cleaned version of the dataset used for modeling im compressed format.
 - `summary.md`: A plain-language summary of what was done, what worked, what didn’t, and key insights from the analysis. *(To be added)*
 
 ---

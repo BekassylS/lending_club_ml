@@ -1,4 +1,3 @@
-# lending_club_ml
 # 💳 Lending Club Client Analysis Using Machine Learning
 
 This project is a machine learning and data analysis study based on a real-world dataset from **Lending Club**, a peer-to-peer lending platform. The dataset includes detailed information about individual loan applicants such as their income, employment status, loan amount, loan status, and more.
